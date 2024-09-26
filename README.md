@@ -145,7 +145,7 @@ Battles and all minigames (except BlackJack, cause it's not a necessity) have be
 While in auto mode, the player also claims all items of a shop, without having to buy them. 
 
 # Full console output
-
+```
 Wealth, fame, power. The world had it all won by one man: the Pirate King, Gold Roger.
 At his death, the words he spoke drove countless men out to sea.
 My treasure? It's yours if you want it. Find it! I left all the world has there!
