@@ -1,4 +1,7 @@
-This console based game was done as a group project in the Programming 2 class at the University of Luxembourg along with one other person. This repository was pulled from the Github Classroom repository.
+# Before inspecting
+
+This console based game was done as a group project in the Programming 2 class at the University of Luxembourg along with one other person. This repository was pulled from the Github Classroom repository, so it does not contain any pull requests or commit history. This is also the README file for the hand-in, only including changes to the initial README file, which contained the setting, activities, items, etc.
+
 # Programming 2 (2023): Interactive Fiction - Template
 
 Build your game on top of the provided framework `Sources/prog2-2023-project/InteractiveFictionFramework`.
